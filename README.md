@@ -1,14 +1,32 @@
-# Project
+In this repo, you can find below resources and information for the browser extension developer community: 
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+1.	About Microsoft Edge extensions
+2.	Feature/ Store improvement updates- linked to our road map and release notes
+3.	Open-source projects to contribute.
+4.	Events-Linked to Edge Insider Community Events section
+5.	Let’s connect  
+6.	Support-linked to our developer landing page or our support doc
 
-As the maintainer of this project, please make a few updates:
+**About:**
+1.	[Overview of MSFT Edge extensions](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/)
+2.	[Getting Started with MSFT Edge extensions](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/)
+3.	[MSFT Edge Extension Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/developer-guide/api-support)
+4.	[Publish to MSFT Edge Add-ons Website](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/create-dev-account)
+5.	[MSFT Edge Extensions for enterprise](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/enterprise/match-patterns)
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+**What’s new?**
+1.	[MSFT Edge Add-ons released features](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/whats-new/released-features)
+2.	[MSFT Add-ons roadmap](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/whats-new/roadmap)
+
+**Events:** 
+Connect with the Microsoft Edge Add-ons developer community through web conferences, office hours and hackathons. Click [here](https://techcommunity.microsoft.com/t5/custom/page/page-id/community-live-events?category=MicrosoftEdgeInsider)
+
+**Let’s connect:**
+
+Stay tuned to what's happening with Microsoft Edge extension by following us on [Twitter](https://twitter.com/MSEdgeDev).
+
+You are also welcome to participate in Microsoft Edge Add-on Discussions on this repository. Please respect the code of conduct and be awesome to each other!
+
 
 ## Contributing
 
