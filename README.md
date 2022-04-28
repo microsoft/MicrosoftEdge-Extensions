@@ -1,11 +1,11 @@
 In this repo, you can find below resources and information for the browser extension developer community: 
 
 1.	About Microsoft Edge extensions
-2.	Feature/ Store improvement updates- linked to our road map and release notes
+2.	Feature/ Store improvement updates
 3.	Open-source projects to contribute.
-4.	Events-Linked to Edge Insider Community Events section
+4.	Events
 5.	Let’s connect  
-6.	Support-linked to our developer landing page or our support doc
+6.	Support
 
 **About:**
 1.	[Overview of MSFT Edge extensions](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/)
