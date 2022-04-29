@@ -35,7 +35,7 @@ Keep up to the recent updates by following our:
 * Contributions are always welcome! Please see our [contributing guide](https://cla.opensource.microsoft.com/) for more details
 * Any and all feedback is appreciated and welcome!
    *  If someone has already filed an issue that encompasses your feedback, please leave a 👍/👎 reaction on the issue
-   *  Otherwise please start a new discussion
+   *  Otherwise please start a [new discussion](https://github.com/microsoft/MicrosoftEdge-Extensions/discussions)
 
 * For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
