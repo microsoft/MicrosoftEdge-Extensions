@@ -32,7 +32,7 @@ Keep up to the recent updates by following our:
 
 * If you think an item in the Microsoft Edge Add-ons website violates a copyright or trademark, see [Notices of Infringement](https://www.microsoft.com/info/Marketplace.html) and complete the form for our team to review.
 
-* Contributions are always welcome! Please see our contributing guide for more details
+* Contributions are always welcome! Please see our [contributing guide](https://cla.opensource.microsoft.com/) for more details
 * Any and all feedback is appreciated and welcome!
    *  If someone has already filed an issue that encompasses your feedback, please leave a 👍/👎 reaction on the issue
    *  Otherwise please start a new discussion
