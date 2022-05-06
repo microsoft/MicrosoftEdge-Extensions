@@ -2,7 +2,7 @@
 name: Bug report on Microsoft Edge Addons website (impacting all users)
 about: Create a report to let us of any breaking issues or bugs on Microsoft Edge
   Addons site, that impacts all Microsoft Edge users
-title: "[Bug - Edge Addons]"
+title: "[Bug - Edge Addons] <enter bug title here>"
 labels: Bug, Edge Addons
 assignees: nagachaitanyalokam
 

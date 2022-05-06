@@ -2,7 +2,7 @@
 name: Feature request for Edge Addons developer experience on Microsoft Partner Center
 about: 'Suggest an idea for a new feature or improving existing features within Microsoft
   Edge Addons program in Partner Center '
-title: "[FeatureReq - Partner Center]"
+title: "[FeatureReq - Partner Center] <enter title here>"
 labels: Feature, Partner Center
 assignees: nagachaitanyalokam
 

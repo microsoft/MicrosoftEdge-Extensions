@@ -2,7 +2,7 @@
 name: Feature request for Microsoft Edge Addons website
 about: Suggest an idea for a new feature or improving existing features within Microsoft
   Edge Addons website
-title: "[FeatureReq - Edge Addons site]"
+title: "[FeatureReq - Edge Addons site] <enter title here>"
 labels: Edge Addons, Feature
 assignees: nagachaitanyalokam
 

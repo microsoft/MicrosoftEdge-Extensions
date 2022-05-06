@@ -2,7 +2,7 @@
 name: Bug report on Partner Center (impacting all developers)
 about: Create a report to let us of any breaking issues or bugs that all Edge Addons
   developers are facing when publishing their extension to Microsoft Edge Addons
-title: "[Bug - Partner Center]"
+title: "[Bug - Partner Center] <enter bug title here>"
 labels: Bug, Partner Center
 assignees: nagachaitanyalokam
 
