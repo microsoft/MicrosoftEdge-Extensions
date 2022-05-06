@@ -1,60 +1,43 @@
-In this repo, you can find below resources and information for the browser extension developer community: 
+[Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) is the extension store for Microsoft Edge browser, where browser extension developers can publish their addons and make it available to Microsoft Edge users.
 
-1.	[About Microsoft Edge extensions](https://github.com/microsoft/MicrosoftEdge-Extensions/edit/main/README.md#about)
-2.	[What’s new?](https://github.com/microsoft/MicrosoftEdge-Extensions/edit/main/README.md#whats-new)
-3.	[Questions, issues, feature requests, and contributions](https://github.com/microsoft/MicrosoftEdge-Extensions/edit/main/README.md#questions-issues-feature-requests-and-contributions).
-4.	[Events](https://github.com/microsoft/MicrosoftEdge-Extensions/edit/main/README.md#events)
-5.	[Let’s connect](https://github.com/microsoft/MicrosoftEdge-Extensions/edit/main/README.md#lets-connect)  
+Microsoft Edge Addons [developer portal](https://developer.microsoft.com/en-us/microsoft-edge/extensions/) is a central place for all information and resources for Edge extension developers.
 
-## About:
-1.	[Overview of MSFT Edge extensions](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/)
-2.	[Getting Started with MSFT Edge extensions](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/)
-3.	[MSFT Edge Extension Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/developer-guide/api-support)
-4.	[Publish to MSFT Edge Add-ons Website](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/create-dev-account)
-5.	[MSFT Edge Extensions for enterprise](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/enterprise/match-patterns)
+# About
+This community space is being created to additionaly help Microsoft Edge extension developers to:
+  * access resources and sample code to learn how to build Microsoft Edge Addons
+  * connect with other extension developers on any technical queries related to building Edge Addons
+  * share inputs or suggestions to Microsoft Edge Addons engineering team on how to improve extension publishing, management and listing processes / workflows
+  * report any bugs or issues in Microsoft Partner Center or Microsoft Edge Addons store page, which affects  **all** developers or Edge users
+  * provide early feedback to Microsoft Edge Addons engineering team on any new features in extension publishing, management and listing processes / workflows
+  * share best practices with other developers on building, managing or acquiring more users for their browser extension
 
-## What’s new?
+# Stay connected with us
 
-Keep up to the recent updates by following our:
-  *   [Edge Insider Tech community](https://techcommunity.microsoft.com/t5/tag/MicrosoftEdgeAddons/tg-p/board-id/EdgeInsiderAnnouncements) 
-  *   [MSFT Edge Add-ons released features](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/whats-new/released-features)
-  *   [MSFT Add-ons roadmap](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/whats-new/roadmap)
+You can follow what's happening with Microsoft Edge Addons via [Twitter](https://twitter.com/search?q=%23EdgeExtensions&src=typed_query&f=live) 
 
-## Questions, issues, feature requests, and contributions
+You can also stay tuned to our recent updates and annoucements via [our Microsoft Tech Community blogs](https://techcommunity.microsoft.com/t5/forums/searchpage/tab/message?filter=location&q=microsoftedgeaddons&location=category:MicrosoftEdgeInsider&sort_by=-topicPostDate&collapse_discussion=true)
 
-* If you have a question about the review or certification status of your extension, reach out to us by submitting [Support form](https://support.microsoft.com/supportrequestform/e7a381be-9c9a-fafb-ed76-262bc93fd9e4)
 
-* If your extension isn't working with Microsoft Edge as you expect, or you have a question about how to develop an extension, see [Supported APIs for Microsoft Edge extensions](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/developer-guide/api-support) and [Port Chromium extensions to Microsoft Edge](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension).
+------------
 
-* If you have any issues while you submit your extension to Partner Center, see [Publish your extension](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/publish-extension).
 
-* To feature your extension in a collection on the Microsoft Edge Add-ons website, see [Submit a request to add an extension to the collections on the Microsoft Edge Add-ons home page](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw01UwyBfAxNna_1ZkP3X2VUN0lBSU1YMEU3VFY0VURRODEwSjgwU00yRy4u) and complete the form.
+## Quick reference links:
 
-* If you think an item in the Microsoft Edge Add-ons website violates a copyright or trademark, see [Notices of Infringement](https://www.microsoft.com/info/Marketplace.html) and complete the form for our team to review.
+| Description | Link to resource |
+| ------------ | ------------ |
+| Overview of Microsoft Edge Addons | https://aka.ms/AboutEdgeAddons |
+| Getting started with Edge extensions | https://aka.ms/EdgeAddonsLearn |
+| List of APIs supported by Edge Addons | https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/developer-guide/api-support |
+| Publishing to MSFT Edge Add-ons site | https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/create-dev-account |
+| Microsoft Edge Addons for enterprise | https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/enterprise/match-patterns |
+| Roadmap for upcoming Edge Addons features | https://aka.ms/EdgeAddonsRoadmap |
+| Microsoft Edge Addons release notes | https://aka.ms/EdgeAddonsReleaseNotes |
 
-* Contributions are always welcome! Please see our [contributing guide](https://cla.opensource.microsoft.com/) for more details
-* Any and all feedback is appreciated and welcome!
-   *  If someone has already filed an issue that encompasses your feedback, please leave a 👍/👎 reaction on the issue
-   *  Otherwise please start a [new discussion](https://github.com/microsoft/MicrosoftEdge-Extensions/discussions)
 
-* For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-## Events:
-Connect with the Microsoft Edge Add-ons developer community through web conferences, office hours and hackathons. Click [here](https://techcommunity.microsoft.com/t5/custom/page/page-id/community-live-events?category=MicrosoftEdgeInsider)
-
-## Let’s connect:
-
-Stay tuned to what's happening with Microsoft Edge extension by following us on [Twitter](https://twitter.com/MSEdgeDev).
-
-You are also welcome to participate in [Microsoft Edge Add-on Discussions](https://github.com/microsoft/MicrosoftEdge-Extensions/discussions) on this repository. Please respect the [code of conduct](https://opensource.microsoft.com/codeofconduct/faq/) and be awesome to each other!
+------------
 
 
 
-## Trademarks
+### Please **do not** use this community for any queries related to a specific developer account or extension
+If you need any support regarding a specific Microsoft Edge Addons developer account or a specific Edge extension,  click [here](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/contact-extensions-team) for instructions.
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
