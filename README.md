@@ -11,6 +11,15 @@ This community space is being created to additionaly help Microsoft Edge extensi
   * provide early feedback to Microsoft Edge Addons engineering team on any new features in extension publishing, management and listing processes / workflows
   * share best practices with other developers on building, managing or acquiring more users for their browser extension
 
+# How to use this community space
+
+| Community resource available here | When to use the same  |
+| ------------ | ------------ |
+| [Issues](https://github.com/microsoft/MicrosoftEdge-Extensions/issues)  | use this forum to report bugs or suggest new features that could impact or benefit all Edge Addons developers |
+| [Discussion](https://github.com/microsoft/MicrosoftEdge-Extensions/discussions) | use this forum to share queries or answer other developers' queries on building or publishing to Microsoft Edge Addons; follow latest announcements and updates from Microsoft Edge Addons team; share tips and tricks with other developers |
+| [Extension samples](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension%20samples) | use this repository to access Microsoft Edge Addon sample codes |
+
+
 # Stay connected with us
 
 You can follow what's happening with Microsoft Edge Addons via [Twitter](https://twitter.com/search?q=%23EdgeExtensions&src=typed_query&f=live) 
