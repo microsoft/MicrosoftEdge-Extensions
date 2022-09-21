@@ -50,5 +50,5 @@ You can also stay tuned to our recent updates and annoucements via [our Microsof
 ### Please **do not** use this community for any queries related to a specific developer account or extension
 If you need any support regarding a specific Microsoft Edge Addons developer account or a specific Edge extension,  click [here](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/contact-extensions-team) for instructions.
 
-For any other browser related issue, please reach out to Microsoft Edge support by following the steps mentioned here.
+For any other browser related issue, please reach out to Microsoft Edge support by following the steps mentioned [here](https://answers.microsoft.com/en-us/microsoftedge/forum/all/how-to-report-a-feedbackbug-to-microsoft-edges/20cc8eb5-11bb-43b6-95d1-e004d41ef876#:~:text=Then%20you%20may%20open%20Microsoft%20Edge%20and%20in,%28you%20may%20open%20this%20menu%20by%20pressing%20Alt%2BShift%2BI.).
 
