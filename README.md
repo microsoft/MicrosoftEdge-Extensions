@@ -50,3 +50,5 @@ You can also stay tuned to our recent updates and annoucements via [our Microsof
 ### Please **do not** use this community for any queries related to a specific developer account or extension
 If you need any support regarding a specific Microsoft Edge Addons developer account or a specific Edge extension,  click [here](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/contact-extensions-team) for instructions.
 
+For any other browser related issue, please reach out to Microsoft Edge support by following the steps mentioned here.
+
