@@ -17,7 +17,7 @@ This community space is being created to additionaly help Microsoft Edge extensi
 | ------------ | ------------ |
 | [Issues](https://github.com/microsoft/MicrosoftEdge-Extensions/issues)  | use this forum to report bugs or suggest new features that could impact or benefit all Edge Addons developers |
 | [Discussions](https://github.com/microsoft/MicrosoftEdge-Extensions/discussions) | use this forum to share queries or answer other developers' queries on building or publishing to Microsoft Edge Addons; follow latest announcements and updates from Microsoft Edge Addons team; share tips and tricks with other developers |
-| [MV2 Extension samples](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension%20samples) | use this repository to access Microsoft Edge Addon sample codes |
+| [Extensions sample code](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension%20samples) | use this repository to access Microsoft Edge Addon sample codes |
 
 
 # Stay connected with us
