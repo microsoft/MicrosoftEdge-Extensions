@@ -7,7 +7,7 @@ The [Microsoft Edge Add-ons Developer](https://developer.microsoft.com/microsoft
 
 ### About this community space
 
-Use this MicrosoftEdge-Extensions community space to:
+Use this MicrosoftEdge-Extensions repo to:
 
 * Access resources and sample code to learn how to build Microsoft Edge extensions (add-ons).
 * Connect with other extension developers about technical questions related to building Microsoft Edge add-ons.
@@ -21,7 +21,7 @@ Use this MicrosoftEdge-Extensions community space to:
 
 The MicrosoftEdge-Extensions repo includes the following tabs:
 
-| Resource | Purpose |
+| Tab | Purpose |
 | ------------ | ------------ |
 | [Code](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension%20samples) | Sample code for Microsoft Edge extensions (add-ons). |
 | [Issues](https://github.com/microsoft/MicrosoftEdge-Extensions/issues)  | Use this forum to report bugs or suggest new features that could impact or benefit all Microsoft Edge extension developers. |
