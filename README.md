@@ -18,7 +18,7 @@ The [Microsoft Edge Add-ons Developer](https://developer.microsoft.com/microsoft
 Use this community space to:
 
 * Access resources and sample code to learn how to build Microsoft Edge extensions (add-ons).
-* Connect with other extension developers on any technical queries related to building Microsoft Edge add-ons.
+* Connect with other extension developers about technical questions related to building Microsoft Edge add-ons.
 * Share inputs or suggestions to the Microsoft Edge add-ons engineering team on how to improve extension publishing, management and listing processes or workflows.
 * Report any bugs or issues about Microsoft Partner Center or the Edge Add-ons website which affect all developers or Microsoft Edge users (rather than issues about a specific developer account or extension).
 * Provide early feedback to the Microsoft Edge add-ons engineering team about any new features for extensions publishing, extensions management, or processes or workflows for extensions listings.
@@ -30,8 +30,8 @@ Use this community space to:
 | Resource | Purpose |
 | ------------ | ------------ |
 | [Issues](https://github.com/microsoft/MicrosoftEdge-Extensions/issues)  | Use this forum to report bugs or suggest new features that could impact or benefit all Edge Add-ons developers. |
-| [Discussions](https://github.com/microsoft/MicrosoftEdge-Extensions/discussions) | Use this forum to share queries or answer other developers' queries on building or publishing to Edge Add-ons; follow latest announcements and updates from the Microsoft Edge add-ons team; share tips and tricks with other developers. |
-| [Extensions sample code](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension%20samples) | Use this repo directory to access sample code for Microsoft Edge add-ons. |
+| [Discussions](https://github.com/microsoft/MicrosoftEdge-Extensions/discussions) | Use this forum to share questions or answer other developers' questions about building or publishing Microsoft Edge add-ons, follow the latest announcements and updates from the Microsoft Edge add-ons team, and share tips and tricks with other developers. |
+| [Extensions sample code](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension%20samples) | Access sample code for Microsoft Edge add-ons. |
 
 
 ### Stay connected
