@@ -1,8 +1,8 @@
 {
-  "name": "NASA picture of the day viewer",
+  "name": "NASA picture of the day pop-up",
   "version": "0.0.0.1",
   "manifest_version": 3,
-  "description": "An extension to display the NASA picture of the day.",
+  "description": "A basic extension that displays an image in a pop-up.",
   "icons": {
       "16": "icons/nasapod16x16.png",
       "32": "icons/nasapod32x32.png",
