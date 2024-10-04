@@ -1,8 +1,8 @@
-This [microsoft / MicrosoftEdge-Extensions](https://github.com/microsoft/MicrosoftEdge-Extensions) repo provides samples of Microsoft Edge extensions (add-ons).
+The [microsoft / MicrosoftEdge-Extensions](https://github.com/microsoft/MicrosoftEdge-Extensions) repo contains Microsoft Edge extensions samples, issues, and discussions.
 
-The [Edge Add-ons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) website is the store for Microsoft Edge extensions, where browser extension developers can publish their Microsoft Edge add-ons and make them available to Microsoft Edge users.
+The [Edge Add-ons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) website is the store for Microsoft Edge extensions (add-ons), where browser extension developers can publish their Microsoft Edge add-ons and make them available to Microsoft Edge users.
 
-The Microsoft Edge Add-ons [developer portal](https://developer.microsoft.com/microsoft-edge/extensions/) is a central place for all information and resources for Edge extension developers.
+The [Microsoft Edge Add-ons Developer](https://developer.microsoft.com/microsoft-edge/extensions/) portal is a central place to find all information and resources for Microsoft Edge extension developers.
 
 
 ### Samples
@@ -57,4 +57,4 @@ See also [Contact the Microsoft Edge extensions team](https://learn.microsoft.co
 
 Don't use this community for questions about a specific developer account or a specific extension.  For support about a specific Microsoft Edge add-ons developer account or a specific Edge extension, see [Contact the Microsoft Edge extensions team](https://docs.microsoft.com/microsoft-edge/extensions-chromium/publish/contact-extensions-team).
 
-For Microsoft Edge-related issues other than extensions, see [How to Report a Feedback/Bug to Microsoft Edge’s Team?](https://answers.microsoft.com/en-us/microsoftedge/forum/all/how-to-report-a-feedbackbug-to-microsoft-edges/20cc8eb5-11bb-43b6-95d1-e004d41ef876#:~:text=Then%20you%20may%20open%20Microsoft%20Edge%20and%20in,%28you%20may%20open%20this%20menu%20by%20pressing%20Alt%2BShift%2BI.).
+For Microsoft Edge-related issues other than extensions, see [How to Report a Feedback/Bug to Microsoft Edge’s Team?](https://answers.microsoft.com/en-us/microsoftedge/forum/all/how-to-report-a-feedbackbug-to-microsoft-edges/20cc8eb5-11bb-43b6-95d1-e004d41ef876#:~:text=Then%20you%20may%20open%20Microsoft%20Edge%20and%20in,%28you%20may%20open%20this%20menu%20by%20pressing%20Alt%2BShift%2BI.)
