@@ -12,7 +12,7 @@ Use this MicrosoftEdge-Extensions repo to:
 * Access resources and sample code to learn how to build Microsoft Edge extensions (add-ons).
 * Connect with other extension developers about technical questions related to building Microsoft Edge add-ons.
 * Share inputs or suggestions to the Microsoft Edge add-ons engineering team on how to improve extension publishing, management and listing processes or workflows.
-* Report any bugs or issues about Microsoft Partner Center or the Edge Add-ons website which affect all developers or Microsoft Edge users (rather than issues about a specific developer account or extension).
+* Report any bugs or issues about Microsoft Partner Center or the Edge Add-ons website which affect all developers or all Microsoft Edge users (rather than issues about a specific developer account or extension).
 * Provide early feedback to the Microsoft Edge add-ons engineering team about any new features for extensions publishing, extensions management, or processes or workflows for extensions listings.
 * Share best practices with other developers on building, managing or acquiring more users for their browser extension.
 
