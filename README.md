@@ -34,8 +34,8 @@ The **Code** tab of the MicrosoftEdge-Extensions repo contains the following sam
 
 | Name | Folder | Article |
 | --- | --- | --- |
-| NASA picture of the day pop-up | [/part1/](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension%20samples/extension-getting-started-part1/part1) | [Tutorial part 1: Create a simple extension](https://learn.microsoft.com/microsoft-edge/extensions-chromium/getting-started/part1-simple-extension) |
-| NASA picture of the day viewer | [/extension-getting-started-part2/](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension%20samples/extension-getting-started-part2/extension-getting-started-part2) | [Tutorial part 2: Add JavaScript to the extension](https://review.learn.microsoft.com/microsoft-edge/extensions-chromium/getting-started/part2-content-scripts) |
+| NASA picture of the day pop-up | [/part1/](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension%20samples/extension-getting-started-part1/part1) | [Tutorial part 1: Display an image in a pop-up](https://learn.microsoft.com/microsoft-edge/extensions-chromium/getting-started/part1-simple-extension) |
+| NASA picture of the day viewer | [/extension-getting-started-part2/](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension%20samples/extension-getting-started-part2/extension-getting-started-part2) | [Tutorial part 2: Use JavaScript to insert an image in the webpage](https://review.learn.microsoft.com/microsoft-edge/extensions-chromium/getting-started/part2-content-scripts) |
 
 
 ### Stay connected
