@@ -16,3 +16,12 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
   });
   sendResponse({ fromcontent: "This message is from content.js" });
 });
+
+/*
+document.querySelector(selectors)
+
+from:
+$("body").prepend(
+to:
+document.querySelector("body").prepend(
+*/
