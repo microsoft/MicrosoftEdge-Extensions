@@ -1,5 +1,5 @@
 {
-    "name": "Picture inserter using a content script",
+    "name": "Picture inserter using content script",
     "version": "0.0.0.1",
     "manifest_version": 3,
     "description": "A browser extension that uses JavaScript to insert an image at the top of the current webpage.",
