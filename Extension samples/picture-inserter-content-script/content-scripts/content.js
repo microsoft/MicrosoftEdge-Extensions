@@ -7,7 +7,7 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
       `<style>
         .slide-image {
             height: auto;
-            width: 100vw;
+            width: 97vw;
         }
       </style>`
   );
@@ -16,12 +16,3 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
   });
   sendResponse({ fromcontent: "This message is from content.js" });
 });
-
-/*
-document.querySelector(selectors)
-
-from:
-$("body").prepend(
-to:
-document.querySelector("body").prepend(
-*/
