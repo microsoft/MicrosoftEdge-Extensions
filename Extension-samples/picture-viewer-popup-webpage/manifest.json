@@ -1,0 +1,15 @@
+{
+  "name": "Picture viewer pop-up webpage",
+  "version": "0.0.0.1",
+  "manifest_version": 3,
+  "description": "A browser extension that displays an image in a pop-up webpage.",
+  "icons": {
+      "16": "icons/extension-icon16x16.png",
+      "32": "icons/extension-icon32x32.png",
+      "48": "icons/extension-icon48x48.png",
+      "128": "icons/extension-icon128x128.png"
+  },
+  "action": {
+      "default_popup": "popup/popup.html"
+  }
+}
