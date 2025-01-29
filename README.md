@@ -72,6 +72,6 @@ See also [Contact the Microsoft Edge extensions team](https://learn.microsoft.co
 <!-- ====================================================================== -->
 ## Questions about a specific developer account or extension
 
-Don't use the **Issues** tab or the **Discussions** tab in this repo for questions about a specific developer account or a specific extension.  For support about a specific Microsoft Edge add-ons developer account or a specific Edge extension, see [Contact the Microsoft Edge extensions team](https://learn.microsoft.com/microsoft-edge/extensions-chromium/publish/contact-extensions-team).
+Don't use the **Issues** tab or the **Discussions** tab in this repo for questions about a specific developer account or a specific extension.  For support about a specific Microsoft Edge add-ons developer account or a specific Edge extension, see [Contact the Microsoft Edge extensions team](https://learn.microsoft.com/microsoft-edge/extensions-chromium/publish/contact-extensions-team).<!-- ok 2025/01/29 -->
 
-For Microsoft Edge-related issues other than extensions, see [How to Report a Feedback/Bug to Microsoft Edge's Team?](https://answers.microsoft.com/en-us/microsoftedge/forum/all/how-to-report-a-feedbackbug-to-microsoft-edges/20cc8eb5-11bb-43b6-95d1-e004d41ef876).
+For Microsoft Edge-related issues other than extensions, see [How to Report a Feedback/Bug to Microsoft Edge's Team?](https://answers.microsoft.com/en-us/microsoftedge/forum/all/how-to-report-a-feedbackbug-to-microsoft-edges/20cc8eb5-11bb-43b6-95d1-e004d41ef876).<!-- ok 2025/01/29 -->
