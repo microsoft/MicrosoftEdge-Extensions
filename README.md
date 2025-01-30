@@ -49,7 +49,7 @@ The **Code** tab of the **MicrosoftEdge-Extensions** repo contains the following
 <!-- ====================================================================== -->
 ## Stay connected
 
-You can follow what's happening with Microsoft Edge add-ons via [#EdgeExtensions at Twitter/X](https://x.com/search?q=%23EdgeExtensions&src=typed_query&f=live).<!-- ok 2025/01/29 -->
+You can follow what's happening with Microsoft Edge add-ons via [#EdgeExtensions at Twitter](https://x.com/search?q=%23EdgeExtensions&src=typed_query&f=live).<!-- ok 2025/01/29 -->
 <!-- possible link: https://x.com/msedgedev/ -->
 
 You can also stay tuned to recent updates and announcements via the [Microsoft Edge Insider](https://techcommunity.microsoft.com/category/MicrosoftEdgeInsider) product community at Tech Community.<!-- ok 2025/01/29 -->
