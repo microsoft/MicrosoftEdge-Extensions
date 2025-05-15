@@ -45,6 +45,8 @@ The **Code** tab of the **MicrosoftEdge-Extensions** repo contains the following
 | Picture viewer pop-up webpage | [/picture-viewer-popup-webpage/](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension-samples/picture-viewer-popup-webpage) | [Sample: Picture viewer pop-up webpage](https://learn.microsoft.com/microsoft-edge/extensions-chromium/getting-started/picture-viewer-popup-webpage) |
 | Picture inserter using content script | [/picture-inserter-content-script/](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension-samples/picture-inserter-content-script) | [Sample: Picture inserter using content script](https://learn.microsoft.com/microsoft-edge/extensions-chromium/getting-started/picture-inserter-content-script) |
 
+The files at [TestCrxPackages](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension-samples/TestCrxPackages) are test extension packages and should be ignored.
+
 
 <!-- ====================================================================== -->
 ## Stay connected
