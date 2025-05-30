@@ -1,8 +1,8 @@
 This **MicrosoftEdge-Extensions** repo contains sample code, issues, and discussions about Microsoft Edge extensions (add-ons).
 
-The [Edge Add-ons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) website is the store for Microsoft Edge extensions, where browser extension developers can publish their Microsoft Edge add-ons and make them available to Microsoft Edge users.
+[Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) is the store for Microsoft Edge extensions, where you can publish your Microsoft Edge extensions and make them available to Microsoft Edge users.
 
-The [Microsoft Edge Add-ons Developer](https://developer.microsoft.com/microsoft-edge/extensions/) portal is a central place to find all information and resources for Microsoft Edge extension developers.
+[Microsoft Edge Add-ons Developer](https://developer.microsoft.com/microsoft-edge/extensions/) is a central portal for information and resources for developing Microsoft Edge extensions.
 
 
 <!-- ====================================================================== -->
@@ -10,39 +10,35 @@ The [Microsoft Edge Add-ons Developer](https://developer.microsoft.com/microsoft
 
 Use this **MicrosoftEdge-Extensions** repo as a community space.
 
-**Code** tab:
+* Use the [Code](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension-samples) tab to:
 
-* Access resources and sample code to learn how to build Microsoft Edge extensions (add-ons).
+  * Access sample code to learn how to build Microsoft Edge extensions.
 
-**Issues** tab:
+* Use the [Issues](https://github.com/microsoft/MicrosoftEdge-Extensions/issues) tab to:
 
-* Inquire about your Microsoft Edge add-ons developer account.
+  * Inquire about your Microsoft Edge add-ons developer account.
 
-* Inquire about the review status or certification status of your Edge extension after submitting the extension via Partner Center.
+  * Inquire about the review status or certification status of your Edge extension after submitting the extension via Partner Center.
 
-* Connect with other extension developers about technical questions related to building Microsoft Edge add-ons.
+  * Report any bugs or issues about Microsoft Partner Center or [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) which affect all developers or all Microsoft Edge users.
 
-* Report any bugs or issues about Microsoft Partner Center or the Edge Add-ons website which affect all developers or all Microsoft Edge users.
+  * Suggest new features that could impact or benefit all Microsoft Edge extension developers.
 
-**Discussions** tab:
+  * Connect with other extension developers about technical questions related to building Microsoft Edge extensions.
 
-* Share inputs or suggestions to the Microsoft Edge add-ons engineering team on how to improve extension publishing, management and listing processes or workflows.
+* Use the [Discussions](https://github.com/microsoft/MicrosoftEdge-Extensions/discussions) tab to:
 
-* Provide early feedback to the Microsoft Edge add-ons engineering team about any new features for extensions publishing, extensions management, or processes or workflows for extensions listings.
+  * Follow the latest announcements and updates from the Microsoft Edge extensions team.
 
-* Share best practices with other developers on building, managing or acquiring more users for their browser extension.
+  * Share input or suggestions with the Microsoft Edge extensions team about how to improve extension publishing, management and listing processes or workflows.
 
+  * Provide early feedback to the Microsoft Edge extensions team about any new features for extensions publishing, extensions management, or processes or workflows for extensions listings.
 
-<!-- ====================================================================== -->
-## Community resources
+  * Share best practices with other developers on building, managing or acquiring more users for their browser extension.
 
-The **MicrosoftEdge-Extensions** repo includes the following tabs:
+  * Share questions or answer other developers' questions about building or publishing Microsoft Edge extensions.
 
-| Tab | Purpose |
-| ------------ | ------------ |
-| [Code](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension-samples) | Sample code for Microsoft Edge extensions (add-ons). |
-| [Issues](https://github.com/microsoft/MicrosoftEdge-Extensions/issues) | Use this forum to report bugs or suggest new features that could impact or benefit all Microsoft Edge extension developers, or inquire about your developer account or extension status. |
-| [Discussions](https://github.com/microsoft/MicrosoftEdge-Extensions/discussions) | Use this forum to share questions or answer other developers' questions about building or publishing Microsoft Edge add-ons, follow the latest announcements and updates from the Microsoft Edge add-ons team, and share tips and tricks with other developers. |
+  * Share tips and tricks with other developers.
 
 
 <!-- ====================================================================== -->
@@ -61,7 +57,7 @@ The files at [TestCrxPackages](https://github.com/microsoft/MicrosoftEdge-Extens
 <!-- ====================================================================== -->
 ## Stay connected
 
-You can follow what's happening with Microsoft Edge add-ons via [#EdgeExtensions at Twitter](https://x.com/search?q=%23EdgeExtensions&src=typed_query&f=live).
+You can follow what's happening with Microsoft Edge extensions via [#EdgeExtensions at Twitter](https://x.com/search?q=%23EdgeExtensions&src=typed_query&f=live).
 <!-- possible link: https://x.com/msedgedev/ -->
 
 You can also stay tuned to recent updates and announcements via the [Microsoft Edge Insider](https://techcommunity.microsoft.com/category/MicrosoftEdgeInsider) product community at Tech Community, or search there for [Edge extensions](https://techcommunity.microsoft.com/search?q=edge+extensions&location=category%3AMicrosoftEdgeInsider)<!-- 1269 --> or [Edge add-on](https://techcommunity.microsoft.com/search?q=edge+add-on&location=category%3AMicrosoftEdgeInsider).<!-- 1108 -->
@@ -78,8 +74,8 @@ See also:
 * [Supported APIs for Microsoft Edge extensions](https://learn.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/api-support)
 * [Register as a Microsoft Edge extension developer](https://learn.microsoft.com/microsoft-edge/extensions-chromium/publish/create-dev-account)
 * [Defining match patterns for an extension to access file URLs](https://learn.microsoft.com/microsoft-edge/extensions-chromium/enterprise/match-patterns)
-* [Roadmap for Microsoft Edge Add-ons](https://aka.ms/EdgeAddonsRoadmap)
-* [Released features for Microsoft Edge Add-ons](https://aka.ms/EdgeAddonsReleaseNotes)
+* [Roadmap for Microsoft Edge extensions](https://aka.ms/EdgeAddonsRoadmap)
+* [Released features for Microsoft Edge extensions](https://aka.ms/EdgeAddonsReleaseNotes)
 <!-- the 4 aka links are noted in the destination .md file -->
 
 
