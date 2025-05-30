@@ -40,6 +40,9 @@ Use this **MicrosoftEdge-Extensions** repo as a community space.
 
   * Share tips and tricks with other developers.
 
+See also:
+* [Communicating on GitHub](https://docs.github.com/en/get-started/using-github/communicating-on-github) - When to use **Issues** vs. **Discussions**.
+
 
 <!-- ====================================================================== -->
 ## Samples
