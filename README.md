@@ -1,4 +1,6 @@
-Use this **MicrosoftEdge-Extensions** repo as a community space.  This **MicrosoftEdge-Extensions** repo contains sample code, issues, and discussions about Microsoft Edge extensions (add-ons).
+# About the MicrosoftEdge-Extensions repo
+
+Use this **MicrosoftEdge-Extensions** repo as a community space.  This repo contains sample code, issues, and discussions about Microsoft Edge extensions (add-ons).
 
 [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) is the store for Microsoft Edge extensions, where you can publish your Microsoft Edge extensions and make them available to Microsoft Edge users.
 
@@ -6,7 +8,7 @@ Use this **MicrosoftEdge-Extensions** repo as a community space.  This **Microso
 
 
 <!-- ====================================================================== -->
-## Code
+### Code
 
 Use the [Code](https://github.com/microsoft/MicrosoftEdge-Extensions/tree/main/Extension-samples) page of this **MicrosoftEdge-Extensions** repo to access sample code to learn how to build Microsoft Edge extensions.
 
@@ -21,7 +23,7 @@ The files at [TestCrxPackages](https://github.com/microsoft/MicrosoftEdge-Extens
 
 
 <!-- ====================================================================== -->
-## Issues
+### Issues
 <!-- sync:
 https://learn.microsoft.com/microsoft-edge/extensions-chromium/publish/contact-extensions-team#issues-page-in-the-microsoftedge-extensions-repo
 https://github.com/microsoft/MicrosoftEdge-Extensions/blob/main/README.md#issues
@@ -46,7 +48,7 @@ See also:
 
 
 <!-- ====================================================================== -->
-## Discussions
+### Discussions
 <!-- sync:
 https://learn.microsoft.com/microsoft-edge/extensions-chromium/publish/contact-extensions-team#discussion-forum-in-the-microsoftedge-extensions-repo
 https://github.com/microsoft/MicrosoftEdge-Extensions/blob/main/README.md#discussions
@@ -72,7 +74,7 @@ See also:
 
 
 <!-- ====================================================================== -->
-## Stay connected
+### Stay connected
 
 You can follow what's happening with Microsoft Edge extensions via [#EdgeExtensions at Twitter](https://x.com/search?q=%23EdgeExtensions&src=typed_query&f=live).
 <!-- possible link: https://x.com/msedgedev/ -->
@@ -84,7 +86,7 @@ See also:
 
 
 <!-- ====================================================================== -->
-## Documentation
+### Documentation
 
 * [Overview of Microsoft Edge extensions](https://aka.ms/AboutEdgeAddons)
 * [Extension concepts and architecture](https://aka.ms/EdgeAddonsLearn)
@@ -97,6 +99,6 @@ See also:
 
 
 <!-- ====================================================================== -->
-## Edge-related issues other than extensions
+### Edge-related issues other than extensions
 
 For Microsoft Edge-related issues other than extensions, see [How to Report a Feedback/Bug to Microsoft Edge's Team?](https://answers.microsoft.com/en-us/microsoftedge/forum/all/how-to-report-a-feedbackbug-to-microsoft-edges/20cc8eb5-11bb-43b6-95d1-e004d41ef876)<!-- /en-us/ required -->
