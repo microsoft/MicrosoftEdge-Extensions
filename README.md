@@ -29,7 +29,7 @@ https://learn.microsoft.com/microsoft-edge/extensions-chromium/publish/contact-e
 https://github.com/microsoft/MicrosoftEdge-Extensions/blob/main/README.md#issues
 -->
 
-Use the [Issues](https://github.com/microsoft/MicrosoftEdge-Extensions/discussions) page of this **MicrosoftEdge-Extensions** repo for:
+Use the [Issues](https://github.com/microsoft/MicrosoftEdge-Extensions/issues) page of this **MicrosoftEdge-Extensions** repo for:
 
 * Communicating with the Extensions team:
   * Report bugs or issues about [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/) (the store) that affect all Edge extension developers or all Microsoft Edge extension users.
