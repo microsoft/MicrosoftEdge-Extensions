@@ -25,7 +25,7 @@ The files in [/TestCrxPackages/](https://github.com/microsoft/MicrosoftEdge-Exte
 <!-- ====================================================================== -->
 ## Issues
 <!-- sync:
-https://learn.microsoft.com/microsoft-edge/extensions/publish/contact-extensions-team#issues-page-in-the-microsoftedge-extensions-repo
+https://learn.microsoft.com/microsoft-edge/extensions/contact#issues-page-in-the-microsoftedge-extensions-repo
 https://github.com/microsoft/MicrosoftEdge-Extensions/blob/main/README.md#issues
 -->
 
@@ -50,7 +50,7 @@ See also:
 <!-- ====================================================================== -->
 ## Discussions
 <!-- sync:
-https://learn.microsoft.com/microsoft-edge/extensions/publish/contact-extensions-team#discussion-forum-in-the-microsoftedge-extensions-repo
+https://learn.microsoft.com/microsoft-edge/extensions/contact#discussion-forum-in-the-microsoftedge-extensions-repo
 https://github.com/microsoft/MicrosoftEdge-Extensions/blob/main/README.md#discussions
 -->
 
@@ -82,7 +82,7 @@ You can follow what's happening with Microsoft Edge extensions via [#EdgeExtensi
 You can also stay tuned to recent updates and announcements via the [Microsoft Edge Insider](https://techcommunity.microsoft.com/category/MicrosoftEdgeInsider) product community at Tech Community, or search there for [Edge extensions](https://techcommunity.microsoft.com/search?q=edge+extensions&location=category%3AMicrosoftEdgeInsider)<!-- 1269 --> or [Edge add-on](https://techcommunity.microsoft.com/search?q=edge+add-on&location=category%3AMicrosoftEdgeInsider).<!-- 1108 -->
 
 See also:
-* [Contact the Microsoft Edge extensions team](https://learn.microsoft.com/microsoft-edge/extensions/publish/contact-extensions-team)
+* [Contact the Microsoft Edge extensions team](https://learn.microsoft.com/microsoft-edge/extensions/contact)
 
 
 <!-- ====================================================================== -->
