@@ -57,7 +57,7 @@ https://github.com/microsoft/MicrosoftEdge-Extensions/blob/main/README.md#issues
 Use the [Issues](https://github.com/microsoft/MicrosoftEdge-Extensions/issues) page of this **MicrosoftEdge-Extensions** repo for:
 
 * Communicating with the Extensions team:
-  * Report bugs or issues about the [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com) store that affect all Edge extension developers or all Microsoft Edge extension users.
+  * Report bugs or issues about the Microsoft Edge Add-ons store that affect all Edge extension developers or all Microsoft Edge extension users.
   * Report bugs or issues about Microsoft Partner Center that affect all Edge extension developers or all Microsoft Edge extension users.
   * Suggest new features that could impact or benefit all Microsoft Edge extension developers.
   * Inquire about your Partner Center developer account for Microsoft Edge extensions.
@@ -102,7 +102,7 @@ Use the [Discussions](https://github.com/microsoft/MicrosoftEdge-Extensions/disc
 * Discussions with the Extensions team:
   * Follow the latest announcements and updates from the Microsoft Edge extensions team.
   * Request a feature for Edge extensions.
-  * Discuss how to improve the UI of the [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com) store.
+  * Discuss improving the UI of the Microsoft Edge Add-ons store.
   * Discuss how to improve extension publishing, management and listing processes or workflows.
   * Provide feedback about features for extensions publishing, extensions management, or processes or workflows for extensions listings.
 
