@@ -14,7 +14,6 @@ jobs:
     steps:
       - name: Create Azure DevOps Bug
         env:
-          ADO_ORG_URL: ${{ secrets.ADO_ORG_URL }}
           ADO_PAT: ${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}
           ISSUE_TITLE: ${{ github.event.issue.title }}
           ISSUE_BODY: ${{ github.event.issue.body }}
