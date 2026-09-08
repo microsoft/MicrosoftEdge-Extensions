@@ -1,0 +1,76 @@
+name: Create ADO Bug on New GitHub Issue
+
+on:
+  workflow_dispatch:
+
+  issues:
+    types:
+      - opened
+
+jobs:
+  create-ado-bug:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Create Azure DevOps Bug
+        env:
+          ADO_ORG_URL: ${{ secrets.ADO_ORG_URL }}
+          ADO_PAT: ${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_URL: ${{ github.event.issue.html_url }}
+
+        run: |
+          set -e
+
+          echo "Creating Azure DevOps Bug..."
+
+          DESCRIPTION=$(printf "GitHub Issue: %s\n\n%s" "$ISSUE_URL" "$ISSUE_BODY")
+
+          jq -n \
+            --arg title "[GitHub] $ISSUE_TITLE" \
+            --arg description "$DESCRIPTION" \
+            '[
+              {
+                "op": "add",
+                "path": "/fields/System.Title",
+                "value": $title
+              },
+              {
+                "op": "add",
+                "path": "/fields/System.Description",
+                "value": $description
+              },
+              {
+                "op": "add",
+                "path": "/fields/System.AreaPath",
+                "value": "Edge\\Edge India\\Extensibility"
+              },
+              {
+                "op": "add",
+                "path": "/fields/System.Tags",
+                "value": "edo"
+              }
+            ]' > body.json
+
+          echo "Request payload:"
+          cat body.json
+
+          RESPONSE=$(curl -s \
+            -o response.json \
+            -w "%{http_code}" \
+            -u ":$ADO_PAT" \
+            -X POST \
+            -H "Content-Type: application/json-patch+json" \
+            --data @body.json \
+            "https://microsoft.visualstudio.com/Edge/_apis/wit/workitems/\$Bug?api-version=7.1")
+
+          echo "HTTP Status: $RESPONSE"
+          cat response.json
+
+          if [ "$RESPONSE" -ge 200 ] && [ "$RESPONSE" -lt 300 ]; then
+            echo "ADO Bug created successfully."
+          else
+            echo "Failed to create ADO Bug."
+            exit 1
+          fi
