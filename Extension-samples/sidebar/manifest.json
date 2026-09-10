@@ -1,0 +1,12 @@
+{
+   "name": "My sidebar extension",
+   "side_panel": {
+      "default_path": "sidebar.html"
+   },
+   "action": {
+      "default_title": "Click to open sidebar"
+   },
+   "permissions": [
+      "sidePanel"
+   ]
+}
